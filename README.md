@@ -14,12 +14,12 @@
 ## 排序算法
 - [交换排序](/src/sort_Algorithm/exchange_Sort)
 
-    + [冒泡排序](https://github.com/mengqimoli/Data-Structure-and-Algorithm-Fundamentals-Java/tree/master/src/sort_Algorithm/exchange_Sort/bubble_Sort)
-    + [快速排序](https://github.com/mengqimoli/Data-Structure-and-Algorithm-Fundamentals-Java/tree/master/src/sort_Algorithm/exchange_Sort/qucik_Sort)
-- 插入排序
+    + [冒泡排序](/src/sort_Algorithm/exchange_Sort/bubble_Sort)
+    + [快速排序](/src/sort_Algorithm/exchange_Sort/qucik_Sort)
+- [插入排序](/src/sort_Algorithm/insertion_Sort)
 
-    + 直接插入排序
-    + 希尔排序
+    + [直接插入排序](/src/sort_Algorithm/insertion_Sort/straight_Insertion_Sort)
+    + [希尔排序](/src/sort_Algorithm/insertion_Sort/shell_Sort)
 - 选择排序
 
     + 简单选择排序
