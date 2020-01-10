@@ -12,7 +12,7 @@
     + 斐波那契
     + 汉诺塔问题
 ## 排序算法
-- [交换排序](https://github.com/mengqimoli/Data-Structure-and-Algorithm-Fundamentals-Java/tree/master/src/sort_Algorithm/exchange_Sort)
+- [交换排序](/src/sort_Algorithm/exchange_Sort)
 
     + [冒泡排序](https://github.com/mengqimoli/Data-Structure-and-Algorithm-Fundamentals-Java/tree/master/src/sort_Algorithm/exchange_Sort/bubble_Sort)
     + [快速排序](https://github.com/mengqimoli/Data-Structure-and-Algorithm-Fundamentals-Java/tree/master/src/sort_Algorithm/exchange_Sort/qucik_Sort)
