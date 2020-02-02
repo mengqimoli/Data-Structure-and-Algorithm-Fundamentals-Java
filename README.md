@@ -31,10 +31,10 @@
 ## 树结构
 - [二叉树](/src/tree/binary_Tree)
 - [线索二叉树](/src/tree/threaded_Binary_Tree)
-- [哈夫曼树]
+- [哈夫曼树](/src/tree/huffman_Tree)
 
-    + [哈弗曼编码解码]
-    + [哈夫曼解压缩文件]
+    + [哈弗曼编码解码](/src/tree/huffman_Tree/Huffman_coding)
+    + [哈夫曼解压缩文件](/src/tree/huffman_Tree/Huffman_file)
 - [二叉排序树]
 - [平衡二叉树(AVL树)]
 - [多路查找树]
