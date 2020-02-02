@@ -9,31 +9,49 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1218409036">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="bmp" value="1" />
+          <entry key="java" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="8" />
+          <entry key="java" value="188" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="188" />
+          <entry key="PLAIN_TEXT" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tree/threaded_Binary_Tree/TestThreadedBinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tree/threaded_Binary_Tree/ThreadedBinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1053">
-              <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/tree/threaded_Binary_Tree/ThreadedNode.java">
+        <entry file="file://$PROJECT_DIR$/src/tree/huffman_Tree/Huffman_file/TestHuffmanFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="1100">
+              <caret line="278" selection-start-line="278" selection-end-line="278" />
             </state>
           </provider>
         </entry>
@@ -97,8 +115,18 @@
         <option value="$PROJECT_DIR$/src/tree/huffman_Tree/HuffmanTest.java" />
         <option value="$PROJECT_DIR$/src/tree/huffman_Tree/Node.java" />
         <option value="$PROJECT_DIR$/src/tree/huffman_Tree/TestHuffmanTree.java" />
+        <option value="$PROJECT_DIR$/src/tree/huffman_Tree/Huffman_coding/TestHuffmanDecode.java" />
+        <option value="$PROJECT_DIR$/src/tree/huffman_Tree/Huffman_coding/TestHuffmanCode.java" />
+        <option value="$PROJECT_DIR$/src/tree/huffman_Tree/Huffman_file/TestHuffmanCode.java" />
+        <option value="$PROJECT_DIR$/src/tree/huffman_Tree/Huffman_file/TestHuffmanFile.java" />
       </list>
     </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -110,16 +138,15 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="577" />
-    <option name="width" value="1346" />
-    <option name="height" value="1040" />
+    <option name="x" value="239" />
+    <option name="width" value="1134" />
+    <option name="height" value="745" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,28 +157,12 @@
             <path>
               <item name="Data-Structure-and-Algorithm-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data-Structure-and-Algorithm-Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Data-Structure-and-Algorithm-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data-Structure-and-Algorithm-Fundamentals" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sort_Algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data-Structure-and-Algorithm-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data-Structure-and-Algorithm-Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sort_Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="insertion_Sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data-Structure-and-Algorithm-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data-Structure-and-Algorithm-Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sort_Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="insertion_Sort" type="462c0819:PsiDirectoryNode" />
-              <item name="shell_Sort" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Data-Structure-and-Algorithm-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
@@ -171,26 +182,30 @@
               <item name="Data-Structure-and-Algorithm-Fundamentals" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="muitlWay_Search_Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="huffman_Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="Huffman_coding" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Data-Structure-and-Algorithm-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data-Structure-and-Algorithm-Fundamentals" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="threaded_Binary_Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="huffman_Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="Huffman_file" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577454446318" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580614213794" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -199,19 +214,22 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\workspaces\Data-Structure-and-Algorithm-Fundamentals" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tree.huffman_Tree.Huffman_file" />
+      <recent name="tree.huffman_Tree.Huffman_coding" />
       <recent name="sort_Algorithm.selection_Sort.heap_Sort" />
       <recent name="sort_Algorithm.radix_Sort" />
       <recent name="sort_Algorithm.merge_Sort" />
-      <recent name="linear_Structure.Array" />
-      <recent name="linear_Structure.Queue" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\A10\Java\workspace\Data-Structure-and-Algorithm-Fundamentals\src\tree\huffman_Tree" />
-      <recent name="E:\A10\Java\workspace\Data-Structure-and-Algorithm-Fundamentals\src\tree\binary_Tree" />
-      <recent name="E:\A10\Java\workspace\Data-Structure-and-Algorithm-Fundamentals\src\tree\threaded_Binary_Tree" />
-      <recent name="E:\A10\Java\workspace\Data-Structure-and-Algorithm-Fundamentals\resources" />
-      <recent name="E:\A10\Java\workspace\Data-Structure-and-Algorithm-Fundamentals\src\linear_Structure\recursion" />
+      <recent name="D:\Java\workspaces\Data-Structure-and-Algorithm-Fundamentals" />
+      <recent name="D:\Java\workspaces\Data-Structure-and-Algorithm-Fundamentals\src\tree\huffman_Tree\Huffman_file" />
+      <recent name="D:\Java\workspaces\Data-Structure-and-Algorithm-Fundamentals\src\tree\huffman_Tree" />
+      <recent name="D:\Java\workspaces\Data-Structure-and-Algorithm-Fundamentals\resources" />
+      <recent name="D:\Java\workspaces\Data-Structure-and-Algorithm-Fundamentals\src\tree\huffman_Tree\Huffman_coding" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -226,33 +244,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestHuffmanTree">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort_Algorithm.exchange_Sort.bubble_Sort.BubbleSort" />
-      <module name="Data-Structure-and-Algorithm-Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sort_Algorithm.exchange_Sort.bubble_Sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort_Algorithm.selection_Sort.heap_Sort.HeapSort" />
-      <module name="Data-Structure-and-Algorithm-Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sort_Algorithm.selection_Sort.heap_Sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestHuffmanFile">
     <configuration name="HuffmanTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tree.huffman_Tree.HuffmanTest" />
       <module name="Data-Structure-and-Algorithm-Fundamentals" />
@@ -266,12 +258,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tree.binary_Tree.TestBinaryTree" />
+    <configuration name="TestHuffmanCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tree.huffman_Tree.Huffman_coding.TestHuffmanCode" />
       <module name="Data-Structure-and-Algorithm-Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tree.binary_Tree.*" />
+          <option name="PATTERN" value="tree.huffman_Tree.Huffman_coding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHuffmanFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tree.huffman_Tree.Huffman_file.TestHuffmanFile" />
+      <module name="Data-Structure-and-Algorithm-Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tree.huffman_Tree.Huffman_file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHuffmanFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tree.huffman_Tree.Huffman_file.TestHuffmanFile" />
+      <module name="Data-Structure-and-Algorithm-Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tree.huffman_Tree.Huffman_file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,13 +310,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.HuffmanTest" />
+      <item itemvalue="Application.TestHuffmanTree" />
+      <item itemvalue="Application.TestHuffmanCode" />
+      <item itemvalue="Application.TestHuffmanFile" />
+      <item itemvalue="Application.TestHuffmanFile" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestHuffmanFile" />
+        <item itemvalue="Application.TestHuffmanFile" />
+        <item itemvalue="Application.TestHuffmanCode" />
         <item itemvalue="Application.TestHuffmanTree" />
         <item itemvalue="Application.HuffmanTest" />
-        <item itemvalue="Application.HeapSort" />
-        <item itemvalue="Application.TestBinaryTree" />
-        <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -319,16 +344,18 @@
       <workItem from="1575510418983" duration="1332000" />
       <workItem from="1577239553559" duration="15702000" />
       <workItem from="1577968928329" duration="305000" />
+      <workItem from="1578659407262" duration="2816000" />
+      <workItem from="1580548421557" duration="6123000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37688000" />
+    <option name="totallyTimeSpent" value="46627000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10074627" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20877458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -336,15 +363,15 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25111112" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998326" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36348408" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
@@ -357,15 +384,16 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/linear_Structure/TestBinarySearch.java" />
-    <entry file="file://$PROJECT_DIR$/src/linear_Structure/TestOpArray2.java" />
-    <entry file="file://$PROJECT_DIR$/src/linear_Structure/TestOpArray.java" />
     <entry file="file://$PROJECT_DIR$/src/linear_Structure/TestMyArraySearch.java" />
     <entry file="file://$PROJECT_DIR$/src/linear_Structure/TestMyArray.java" />
     <entry file="file://$PROJECT_DIR$/src/linear_Structure/AddOneToHandred.java" />
@@ -382,64 +410,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linear_Structure/loopNode/LoopNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sort_Algorithm/selection_Sort.java" />
-    <entry file="file://$PROJECT_DIR$/src/linear_Structure/doubleNode/DoubleNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/linear_Structure/stack/MyStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linear_Structure/doubleNode/TestDoubleNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linear_Structure/loopNode/TestLoopNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linear_Structure/node/TestNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linear_Structure/queue/TestMyQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linear_Structure/stack/TestMyStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -468,10 +443,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -517,9 +488,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -537,9 +505,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -599,10 +564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
           <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
-          <folding>
-            <element signature="e#10065#10066#0" expanded="true" />
-            <element signature="e#10148#10149#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -611,14 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -631,22 +584,121 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/threaded_Binary_Tree/TestThreadedBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="220">
           <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/threaded_Binary_Tree/ThreadedBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1053">
+        <state relative-caret-position="858">
           <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/threaded_Binary_Tree/ThreadedNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
+        <state relative-caret-position="44">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linear_Structure/doubleNode/DoubleNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linear_Structure/doubleNode/TestDoubleNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linear_Structure/stack/TestMyStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linear_Structure/queue/TestMyQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linear_Structure/node/TestNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linear_Structure/loopNode/TestLoopNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linear_Structure/loopNode/LoopNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-223">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/huffman_Tree/Huffman_coding/TestHuffmanDecode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/huffman_Tree/Huffman_coding/Node.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/huffman_Tree/Huffman_coding/TestHuffmanCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/huffman_Tree/Huffman_file/TestHuffmanFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="142" column="26" selection-start-line="142" selection-start-column="26" selection-end-line="142" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/huffman_Tree/Huffman_file/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/huffman_Tree/Huffman_file/1.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/huffman_Tree/Huffman_file/TestHuffmanFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="278" selection-start-line="278" selection-end-line="278" />
         </state>
       </provider>
     </entry>
