@@ -1,4 +1,4 @@
-package sort_algorithm.exchange_Sort.quick_sort;
+package sort_algorithm.exchange_sort.quick_sort;
 
 import java.util.Arrays;
 

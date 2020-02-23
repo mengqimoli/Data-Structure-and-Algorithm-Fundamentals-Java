@@ -1,4 +1,4 @@
-package sort_algorithm.exchange_Sort.bubble_sort;
+package sort_algorithm.exchange_sort.bubble_sort;
 
 import java.util.Arrays;
 
