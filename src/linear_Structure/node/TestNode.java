@@ -1,4 +1,4 @@
-package linear_Structure.node;
+package linear_structure.node;
 
 public class TestNode {
 	

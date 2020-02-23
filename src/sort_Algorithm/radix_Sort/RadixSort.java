@@ -1,4 +1,4 @@
-package sort_Algorithm.radix_Sort;
+package sort_algorithm.radix_sort;
 
 import java.util.Arrays;
 

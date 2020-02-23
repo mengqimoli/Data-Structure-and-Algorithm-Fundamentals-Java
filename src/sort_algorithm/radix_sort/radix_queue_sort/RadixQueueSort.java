@@ -1,6 +1,6 @@
-package sort_Algorithm.radix_Sort.radixQueueSort;
+package sort_algorithm.radix_sort.radix_queue_sort;
 
-import linear_Structure.queue.MyQueue;
+import linear_structure.queue.MyQueue;
 
 import java.util.Arrays;
 

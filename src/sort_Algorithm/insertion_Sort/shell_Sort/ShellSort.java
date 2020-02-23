@@ -1,4 +1,4 @@
-package sort_Algorithm.insertion_Sort.shell_Sort;
+package sort_algorithm.insertion_sort.shell_sort;
 
 import java.util.Arrays;
 

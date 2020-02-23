@@ -1,4 +1,4 @@
-package linear_Structure.recursion.fibonacci;
+package linear_structure.recursion.fibonacci;
 
 public class Febonacci {
 

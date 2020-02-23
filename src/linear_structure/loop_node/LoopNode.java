@@ -1,4 +1,4 @@
-package linear_Structure.loopNode;
+package linear_structure.loop_node;
 
 //一个节点
 public class LoopNode {

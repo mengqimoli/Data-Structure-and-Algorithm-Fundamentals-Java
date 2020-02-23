@@ -1,4 +1,4 @@
-package linear_Structure.doubleNode;
+package linear_structure.double_node;
 
 public class DoubleNode {
 	//上一个节点

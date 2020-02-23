@@ -1,4 +1,4 @@
-package linear_Structure.recursion.tower_of_Hanoi;
+package linear_structure.recursion.tower_of_hanoi;
 
 public class Hanoi {
 

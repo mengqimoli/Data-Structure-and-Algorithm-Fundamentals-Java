@@ -1,4 +1,4 @@
-package tree.binary_Tree;
+package tree.binary_tree;
 
 public class ArrayBinaryTree {
 

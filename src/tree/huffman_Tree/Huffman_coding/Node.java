@@ -1,4 +1,4 @@
-package tree.huffman_Tree.Huffman_coding;
+package tree.huffman_tree.huffman_coding;
 
 public class Node implements Comparable<Node> {
 	Byte data;

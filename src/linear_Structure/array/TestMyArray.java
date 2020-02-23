@@ -1,4 +1,4 @@
-package linear_Structure.array;
+package linear_structure.array;
 
 public class TestMyArray {
 

@@ -1,4 +1,4 @@
-package linear_Structure.queue;
+package linear_structure.queue;
 
 public class MyQueue {
 	

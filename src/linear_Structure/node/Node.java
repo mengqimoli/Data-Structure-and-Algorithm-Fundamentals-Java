@@ -1,4 +1,4 @@
-package linear_Structure.node;
+package linear_structure.node;
 
 //一个节点
 public class Node {

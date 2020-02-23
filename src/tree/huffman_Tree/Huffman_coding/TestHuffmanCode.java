@@ -1,7 +1,5 @@
-package tree.huffman_Tree.Huffman_coding;
+package tree.huffman_tree.huffman_coding;
 
-import java.io.*;
-import java.lang.invoke.MethodHandles;
 import java.util.*;
 import java.util.Map.Entry;
 

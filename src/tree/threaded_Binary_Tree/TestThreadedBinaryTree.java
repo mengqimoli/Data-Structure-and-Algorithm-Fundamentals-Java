@@ -1,4 +1,4 @@
-package tree.threaded_Binary_Tree;
+package tree.threaded_binary_tree;
 
 public class TestThreadedBinaryTree {
 

@@ -1,6 +1,4 @@
-package sort_Algorithm.exchange_Sort.bubble_Sort;
-
-import sun.security.util.Length;
+package sort_algorithm.exchange_Sort.bubble_sort;
 
 import java.util.Arrays;
 

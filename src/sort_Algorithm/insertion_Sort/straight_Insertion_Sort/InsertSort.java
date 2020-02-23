@@ -1,4 +1,4 @@
-package sort_Algorithm.insertion_Sort.straight_Insertion_Sort;
+package sort_algorithm.insertion_sort.straight_insertion_sort;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package tree.huffman_Tree;
+package tree.huffman_tree;
 
 public class Node implements Comparable<Node> {
 	int value;

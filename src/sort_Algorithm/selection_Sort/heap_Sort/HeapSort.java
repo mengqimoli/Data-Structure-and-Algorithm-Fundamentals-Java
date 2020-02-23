@@ -1,4 +1,4 @@
-package sort_Algorithm.selection_Sort.heap_Sort;
+package sort_algorithm.selection_sort.heap_sort;
 
 import java.util.Arrays;
 

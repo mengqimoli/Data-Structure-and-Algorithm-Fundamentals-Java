@@ -1,4 +1,4 @@
-package linear_Structure.stack;
+package linear_structure.stack;
 
 public class TestMyStack {
 
