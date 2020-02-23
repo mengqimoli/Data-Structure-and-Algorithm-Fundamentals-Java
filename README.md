@@ -1,16 +1,16 @@
 # Data-Structure-and-Algorithm-Fundamentals-Java
 数据结构和算法-基础-Java版
 ## 线性结构
-- [数组](/src/sort_slgorithm/exchange_sort/array)
-- [栈](/src/sort_slgorithm/exchange_sort/stack)
-- [队列](/src/sort_slgorithm/exchange_sort/queue)
-- [单链表](/src/sort_slgorithm/exchange_sort/node)
-- [循环链表](/src/sort_slgorithm/exchange_sort/loopNode)
-- [双向循环链表](/src/sort_slgorithm/exchange_sort/double_node)
-- [递归](/src/sort_slgorithm/exchange_sort/recursion)
+- [数组](/src/sort_algorithm/exchange_sort/array)
+- [栈](/src/sort_algorithm/exchange_sort/stack)
+- [队列](/src/sort_algorithm/exchange_sort/queue)
+- [单链表](/src/sort_algorithm/exchange_sort/node)
+- [循环链表](/src/sort_algorithm/exchange_sort/loopNode)
+- [双向循环链表](/src/sort_algorithm/exchange_sort/double_node)
+- [递归](/src/sort_algorithm/exchange_sort/recursion)
 
-    + [斐波那契](/src/sort_slgorithm/exchange_sort/recursion/fibonacci)
-    + [汉诺塔问题](/src/sort_slgorithm/exchange_sort/recursion/tower_of_hanoi)
+    + [斐波那契](/src/sort_algorithm/exchange_sort/recursion/fibonacci)
+    + [汉诺塔问题](/src/sort_algorithm/exchange_sort/recursion/tower_of_hanoi)
 ## 排序算法
 - [交换排序](/src/sort_algorithm/exchange_sort)
 
