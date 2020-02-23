@@ -1,16 +1,16 @@
 # Data-Structure-and-Algorithm-Fundamentals-Java
 数据结构和算法-基础-Java版
 ## 线性结构
-- [数组](/src/sort_algorithm/exchange_sort/array)
-- [栈](/src/sort_algorithm/exchange_sort/stack)
-- [队列](/src/sort_algorithm/exchange_sort/queue)
-- [单链表](/src/sort_algorithm/exchange_sort/node)
-- [循环链表](/src/sort_algorithm/exchange_sort/loopNode)
-- [双向循环链表](/src/sort_algorithm/exchange_sort/double_node)
-- [递归](/src/sort_algorithm/exchange_sort/recursion)
+- [数组](/src/linear_structure/array)
+- [栈](/src/linear_structure/stack)
+- [队列](/src/linear_structure/queue)
+- [单链表](/src/linear_structure/node)
+- [循环链表](/src/linear_structure/loopNode)
+- [双向循环链表](/src/linear_structure/double_node)
+- [递归](/src/linear_structure/exchange_sort/recursion)
 
-    + [斐波那契](/src/sort_algorithm/exchange_sort/recursion/fibonacci)
-    + [汉诺塔问题](/src/sort_algorithm/exchange_sort/recursion/tower_of_hanoi)
+    + [斐波那契](/src/linear_structure/recursion/fibonacci)
+    + [汉诺塔问题](/src/linear_structure/recursion/tower_of_hanoi)
 ## 排序算法
 - [交换排序](/src/sort_algorithm/exchange_sort)
 
@@ -35,15 +35,14 @@
 
     + [哈弗曼编码解码](/src/tree/huffman_tree/huffman_coding)
     + [哈夫曼解压缩文件](/src/tree/huffman_tree/huffman_file)
-- [二叉排序树]
-- [平衡二叉树(AVL树)]
-- [多路查找树]
+- [二叉排序树](/src/tree/binary_sort_tree)
+- [平衡二叉树(AVL树)](/src/tree/balanced_binary_tree)
+- [多路查找树](/src/tree/balanced_binary_tree)
 
-    + [2-3树和2-3-4树]
-    + [B树]
-    + [B+树]
+    + [2-3树和2-3-4树](/src/tree/muitlWay_search_tree/_23tree)
+    + [B树](/src/tree/muitlWay_search_tree/b_tree)
+    + [B+树](/src/tree/muitlWay_search_tree/b_plus_tree)
 ## 哈希表
-- [散列函数]
+- [哈希表](/src/hash_table)
 ## 图结构
-- [图]
-- [图的遍历]
+- [图/图的遍历](/src/graph)
